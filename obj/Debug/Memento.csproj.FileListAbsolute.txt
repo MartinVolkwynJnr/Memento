@@ -1,0 +1,6 @@
+E:\Private\Projects\Memento\bin\Debug\Memento.exe.config
+E:\Private\Projects\Memento\bin\Debug\Memento.exe
+E:\Private\Projects\Memento\bin\Debug\Memento.pdb
+E:\Private\Projects\Memento\obj\Debug\Memento.csprojAssemblyReference.cache
+E:\Private\Projects\Memento\obj\Debug\Memento.exe
+E:\Private\Projects\Memento\obj\Debug\Memento.pdb
